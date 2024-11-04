@@ -51,3 +51,39 @@ ul li a {
 .italic {
     font-style: italic;
 }
+
+.shavi-khvreli-mtavarze {
+    width: 675px;
+    height: 478px;
+}
+
+.namdvili_shavi_khvreli {
+    padding: 0 30px;
+    width: 500px;
+    height: 500px;
+}
+
+.meore-pirveli {
+    background-color: rgb(210 210 210);
+    display: inline-flex;
+    width: 100%;
+}
+
+.meore-meore {
+    display: inline-flex;
+    width: 97%;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+.video {
+    padding: 0 30px;
+}
+.sakontaqto {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 97%;
+
+}
+.sakontaqto-teqsti {
+    padding: 50px 200px;
+}
